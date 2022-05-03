@@ -103,7 +103,17 @@ Once we are at the root directory in the command prompt use below command to sta
 You will presented with several options to download information,resources and entities based on your use-case.
 ![image](https://user-images.githubusercontent.com/19343906/166515345-70198be1-b0a1-48ca-8ba6-9dd72d7e2680.png)
 
-
+There are 8 Available Options:
+<ol>
+  <li>Download All Resources</li>
+  <li>Download Only Proxies </li>
+  <li>Download Only SharedFlows </li>
+  <li>Download Only Products</li>
+  <li>Download Only Apps </li>
+  <li>Download Only KVM </li>
+  <li>Download Only Target Servers</li>
+  <li>Download Only Developers</li>
+</ol>
 
 
 

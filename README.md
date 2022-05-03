@@ -78,7 +78,30 @@ You will need Apigee X Org Name and a fresh Bearer Token Generated on GCP Consol
 
 # How to Use the tool
 
+Method 1: 
 
+<ul>
+  <li>By Cloning the Repository Code </li>
+  <li>
+  To use the tool, open a command prompt and change to the root directory of the repository you cloned.
+  </li>  
+</ul>  
+
+Method 2: 
+
+<ul>
+  <li>By Downloading the Repository as a zip file</li>
+  <li>Extract the contents of the zip file.</li>  
+  <li>Open a command prompt and change to the root directory to the extracted folder.</li>  
+</ul>
+
+Once we are at the root directory in the command prompt use below command to start downloading the resources
+<ul>
+  <li>python apigeex_tool.py</li>
+</ul>
+
+You will presented with several options to download information,resources and entities based on your use-case.
+![image](https://user-images.githubusercontent.com/19343906/166515345-70198be1-b0a1-48ca-8ba6-9dd72d7e2680.png)
 
 
 

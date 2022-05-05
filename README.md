@@ -201,8 +201,20 @@ The following folder structure with data will be created in your current directo
 
 ![image](https://user-images.githubusercontent.com/19343906/166903611-116ea3f3-2dce-4aff-a50e-125b7b08f11d.png)
 
+# Errors !!! 
+Only 2 errors might occur while using the tool.
 
+<b> 1. Invalid Credentials</b>
 
+This error occurs if the user provided <b>Apigee X Org Name</b> or the <b>Bearer Token</b> is Invalid.
+
+Below is the sample Screenshot.
+
+<b> 2. Python is not recognized as an internal or external</b>
+
+This error occurs if either python is not installed or the system environment variable for python is not set.
+
+Below is the sample Screenshot.
 
 
 

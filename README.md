@@ -197,6 +197,11 @@ Below is the sample Screenshot.
 
 
 
+The following folder structure with data will be created in your current directory.
+
+![image](https://user-images.githubusercontent.com/19343906/166903611-116ea3f3-2dce-4aff-a50e-125b7b08f11d.png)
+
+
 
 
 

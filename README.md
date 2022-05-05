@@ -116,27 +116,83 @@ There are 8 Available Options:
 </ol>
 
 # Download Only Proxies
+To download only Proxies from the Apigee X Org.
+<ul>
+  <li>Type <b>Proxy</b> ( Case Insensitive ) in the command prompt.</li>
+</ul>
+
+Below is the sample Screenshot.
+
 ![Screenshot (391)](https://user-images.githubusercontent.com/19343906/166897336-e5f6251d-2c81-46b6-a369-10b734dc91d7.png)
 
 # Download Only Shared Flows
+To download only Shared Flows from the Apigee X Org.
+<ul>
+  <li>Type <b>SF</b> ( Case Insensitive ) in the command prompt.</li>
+</ul>
+
+Below is the sample Screenshot.
+
 ![Screenshot (385)](https://user-images.githubusercontent.com/19343906/166896590-9a2bab2d-7713-4444-a5b7-e395aa63c332.png)
 
 # Download Only Products
+To download only Product from the Apigee X Org.
+<ul>
+  <li>Type <b>Product</b> ( Case Insensitive ) in the command prompt.</li>
+</ul>
+
+Below is the sample Screenshot.
+
 ![Screenshot (386)](https://user-images.githubusercontent.com/19343906/166896742-7dff2a2b-7f6a-44b8-be41-e2e20d34acd7.png)
 
 # Download Only Apps
+To download only Apps from the Apigee X Org.
+<ul>
+  <li>Type <b>APP</b> ( Case Insensitive ) in the command prompt.</li>
+</ul>
+
+Below is the sample Screenshot.
+
 ![Screenshot (387)](https://user-images.githubusercontent.com/19343906/166896851-9c2ff96b-c8e4-4ba0-abcd-22efc323cc62.png)
 
 # Download Only KVMs
+To download only KVMs from the Apigee X Org.
+<ul>
+  <li>Type <b>KVM</b> ( Case Insensitive ) in the command prompt.</li>
+</ul>
+
+Below is the sample Screenshot.
+
 ![Screenshot (388)](https://user-images.githubusercontent.com/19343906/166896957-9cb5682e-ff30-43f7-a310-dfaa88d524d9.png)
 
 # Download Only Target Servers
+To download only Target Servers from the Apigee X Org.
+<ul>
+  <li>Type <b>TS</b> ( Case Insensitive ) in the command prompt.</li>
+</ul>
+
+Below is the sample Screenshot.
+
 ![Screenshot (389)](https://user-images.githubusercontent.com/19343906/166897070-c67d1a42-942e-4f17-a240-65ce922bdf4b.png)
 
 # Download Only Developers
+To download only Developers from the Apigee X Org.
+<ul>
+  <li>Type <b>DEV</b> ( Case Insensitive ) in the command prompt.</li>
+</ul>
+
+Below is the sample Screenshot.
+
 ![Screenshot (390)](https://user-images.githubusercontent.com/19343906/166897194-17323a97-1139-454e-a17a-956a821b7a69.png)
 
 # Download All Resources
+To download all Resources from the Apigee X Org.
+<ul>
+  <li>Type <b>ALL</b> ( Case Insensitive ) in the command prompt.</li>
+</ul>
+
+Below is the sample Screenshot.
+
 ![Screenshot (393)](https://user-images.githubusercontent.com/19343906/166897523-a24baafc-e1f2-480a-ba29-58f465366420.png)
 
 

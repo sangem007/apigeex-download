@@ -216,6 +216,8 @@ This error occurs if either python is not installed or the system environment va
 
 Below is the sample Screenshot.
 
+![image](https://user-images.githubusercontent.com/19343906/167112266-2f1bf197-7542-428a-8dae-8f6b59fbf8af.png)
+
 
 
 

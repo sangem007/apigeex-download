@@ -210,6 +210,9 @@ This error occurs if the user provided <b>Apigee X Org Name</b> or the <b>Bearer
 
 Below is the sample Screenshot.
 
+![image](https://user-images.githubusercontent.com/19343906/167112664-527c1e4e-f696-4218-9f56-eb51042edf04.png)
+
+
 <b> 2. Python is not recognized as an internal or external</b>
 
 This error occurs if either python is not installed or the system environment variable for python is not set.
